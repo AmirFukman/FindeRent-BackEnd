@@ -1,15 +1,15 @@
 # FindeRent
 
-Welcome to the Student Housing Connection App! This application is designed to connect students searching for housing near universities and colleges with house holders looking to rent their properties to students.
+Welcome to the Student Housing Connection App! This application is designed to connect students searching for housing near universities and colleges with householders looking to rent their properties to students.
 
 ## Features
 
-* User authentication for students and house holders
+* User authentication for students and householders
 * Profile creation and management
 * Search functionality to find houses near universities
 * Listing properties for rent
-* Matching system to connect students with suitable properties and house holders with potential tenants
-* Secure messaging system for communication between students and house holders
+* Matching system to connect students with suitable properties and householders with potential tenants
+* Secure messaging system for communication between students and householders
 
 ## Technologies Used
 
@@ -24,15 +24,11 @@ Welcome to the Student Housing Connection App! This application is designed to c
 ```bach
 git clone https://github.com/AmirFukman/FindeRent-BackEnd.git
 ```
-2. Navigate to the backend directory:
-```bach
-cd student-housing-connection/backend
-```
-3. Install backend dependencies:
+2. Install backend dependencies:
 ```bach
 npm install
 ```
-4. Start the backend server using nodemon:
+3. Start the backend server using nodemon:
 ```bach
 nodemon server.js
 ```
@@ -41,13 +37,11 @@ nodemon server.js
 ## Usage
 1. Run the backend server first:
 ```bach
-cd backend
 nodemon server.js
 ```
 
-2. Run the frontend app using Expo:
+2. Run the frontend app using Expo from the frontend directory:
 ```bach
-cd ../frontend
 npm start
 ```
 
