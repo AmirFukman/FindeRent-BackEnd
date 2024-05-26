@@ -22,7 +22,7 @@ Welcome to the Student Housing Connection App! This application is designed to c
 ## Backend Setup
 1. Clone the repository
 ```bach
-git clone https://github.com/yourusername/student-housing-connection.git
+git clone https://github.com/AmirFukman/FindeRent-BackEnd.git
 ```
 2. Navigate to the backend directory:
 ```bach
